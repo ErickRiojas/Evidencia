@@ -1,11 +1,11 @@
 # Evidencia
 Evidencia de Computacion en Java
 
-Instalación y configuración
-Se requira instalar Intellij Idea la version reciente y configurar de
+Instalación y configuración:
+Se requiere instalar Intellij Idea la version reciente y configurar de
 acuerdo al sistema operativo con el que se cuente
 
-Uso del programa
+Uso del programa:
 El uso de este programa será para realizar la evidencia del certificado
 de Computación en Java en donde se solicita un sistema el cual sea capaz
 de dar de alta a doctores, dar de alta pacientes y tambien que tenga la 
@@ -13,8 +13,8 @@ posibilidad de crear citas, todos estos requerimientos deberan estar con
 permiso de administrador, de lo contrario no se logrará acceder a esta
 información.
 
-Créditos
-Autor del programa: Erick Adrian Riojas Martinez 
+Créditos:
+Autor Erick Adrian Riojas Martinez 
 
 Licencia
 Este es un software gratuito y sin trabas lanzado al dominio público.
