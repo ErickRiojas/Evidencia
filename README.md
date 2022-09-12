@@ -16,7 +16,7 @@ información.
 Créditos:
 Autor Erick Adrian Riojas Martinez 
 
-Licencia
+Licencia:
 Este es un software gratuito y sin trabas lanzado al dominio público.
 Cualquiera es libre de usar, compilar, este software, ya sea en forma de código fuente o como un compilado
 binario, para cualquier propósito, comercial o no comercial, y por cualquier
